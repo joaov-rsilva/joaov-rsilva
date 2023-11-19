@@ -1,10 +1,9 @@
-- 👋 Olá, me chamo João Silva
-- 🌱 Atualmente estou aprendendo linguagem C e a mexer no Github kk
-- 💞️ Procuro colaborar em projetos linux no futuro
+<h2>Hello, I'm João Silva</h2>
+I am currently learning algorithms and data structures in C language, I intend to be able to help the open source community in some Linux distributions in the near future. The focus of my career is to someday be able to work in information security.
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=c,linux" />
   </a>
 </p>
 

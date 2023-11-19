@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo João Silva
 - 🌱 Atualmente estou aprendendo linguagem C e a mexer no Github kk
 - 💞️ Procuro colaborar em projetos linux no futuro
-
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c" />
